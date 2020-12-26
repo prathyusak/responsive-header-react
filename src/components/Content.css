@@ -1,0 +1,29 @@
+.content{
+    width: 80%;
+    margin:2rem 10% 0 10%;
+    max-width: 100%;
+    box-sizing: border-box;
+    min-height: 100vh;
+}
+
+#post1 {
+  background-color: #a388e8;
+  height: 100vh;
+}
+
+#post2 {
+  background-color: #f4769e;
+  height: 100vh;
+}
+
+#post3 {
+  background-color: #8face0;
+  height: 100vh;
+}
+
+#post4 {
+  background-color: #a388e8;
+  height: 100vh;
+}
+
+
